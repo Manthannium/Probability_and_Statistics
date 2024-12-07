@@ -1,2 +1,6 @@
-# Probability & Statistics Resources
+# 🎲 Probability & Statistics Resources 🎲
+- Lecture Notes
+- Statistics
+- Handbooks
+- Cheatsheets
 
