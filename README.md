@@ -1,2 +1,2 @@
-# Probability & Statistics Notes
+# Probability & Statistics Resources
 
